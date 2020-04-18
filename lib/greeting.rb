@@ -1,4 +1,4 @@
 # code the #greeting method here!
-greeting (name)
+def greeting (name)
 puts "Hi #{name}!"
 end
